@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 17" width="16" height="17">
+	<title>deletedMessageWhite-svg</title>
+	<defs>
+		<image  width="13" height="11" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAALCAMAAACTbPdTAAAAAXNSR0IB2cksfwAAADxQTFRF////////////////////////////////////////////////////////////////////////////////ILFedQAAABR0Uk5TQG8AcFDA/zDv8CCQgKCPPxB/0OCMb/+KAAAASElEQVR4nH3NMRKAIBADwHhCQPRE8f9/Nc05VKbKFpkAi0XWhMwSYpXwiT/aJjXmSZB2HnFARyHP3uzqN5lgzoibRvCh+rjqC5aFAn/MUUmzAAAAAElFTkSuQmCC"/>
+		<image  width="16" height="3" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAADBAMAAABon5JnAAAAAXNSR0IB2cksfwAAABJQTFRF////////////////////////uuV0AgAAAAZ0Uk5TsP/PANDwrKMaOwAAABVJREFUeJxjYBQEA2UGRwgjmMEYCgAf4QMdxnC/6wAAAABJRU5ErkJggg=="/>
+		<image  width="9" height="7" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAHBAMAAAAotXpTAAAAAXNSR0IB2cksfwAAACpQTFRF////////////////////////////////////////////////////////avtNLQAAAA50Uk5TAIDf/+9/kK8gMEDwoHA/XmRxAAAAKElEQVR4nGNggAAhkwAGBjZjY3MGhmZjY+MJDIuB5AKG7gMMlxsgKgB6+AdgkT7MrAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<g id="Iconly_Curved_Delete">
+		<g id="Delete">
+			<use id="Stroke_1" href="#img1" x="1" y="6"/>
+			<use id="Stroke_3" href="#img2" x="0" y="3"/>
+			<use id="Stroke_5" href="#img3" x="3" y="-1"/>
+		</g>
+	</g>
+</svg>

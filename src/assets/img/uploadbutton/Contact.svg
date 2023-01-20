@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9fdb5d"/>
+      <stop offset="1" stop-color="#d4ffb4"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.941"/>
+    </radialGradient>
+  </defs>
+  <g id="Contact" transform="translate(-179 -631)">
+    <rect id="Rectangle_2791" data-name="Rectangle 2791" width="70" height="70" rx="26" transform="translate(179 631)" fill="url(#radial-gradient)"/>
+    <rect id="Rectangle_2811" data-name="Rectangle 2811" width="32.855" height="32" rx="6" transform="translate(200.145 655.5)" fill="#789d5c"/>
+    <path id="Rectangle_2793" data-name="Rectangle 2793" d="M6,0h9A17,17,0,0,1,32,17V31a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(198 647.5)" fill="url(#radial-gradient-2)"/>
+    <g id="Group_2229" data-name="Group 2229" transform="translate(1 0.01)">
+      <path id="Path_387" data-name="Path 387" d="M-6515.179,3845.7h2.091" transform="translate(6712.232 -3187.21)" fill="none" stroke="#585856" stroke-linecap="round" stroke-width="2"/>
+      <path id="Path_388" data-name="Path 388" d="M-6515.179,3852.17h2.091" transform="translate(6712.232 -3188.435)" fill="none" stroke="#585856" stroke-linecap="round" stroke-width="2"/>
+      <path id="Path_389" data-name="Path 389" d="M-6515.179,3857.2h2.091" transform="translate(6712.232 -3188.284)" fill="none" stroke="#585856" stroke-linecap="round" stroke-width="2"/>
+      <path id="Path_390" data-name="Path 390" d="M-6515.179,3862.362h2.091" transform="translate(6712.232 -3188.284)" fill="none" stroke="#585856" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <path id="Icon_ionic-md-call" data-name="Icon ionic-md-call" d="M17.724,14.224a9.13,9.13,0,0,1-2.761-.428.728.728,0,0,0-.778.194L12.473,15.7a11.7,11.7,0,0,1-5.134-5.134L9.051,8.856a.811.811,0,0,0,.194-.778,8.46,8.46,0,0,1-.467-2.8A.78.78,0,0,0,8,4.5H5.278a.78.78,0,0,0-.778.778A13.213,13.213,0,0,0,17.724,18.5a.78.78,0,0,0,.778-.778V15A.78.78,0,0,0,17.724,14.224Z" transform="translate(203.499 654.793)" fill="#7ba015"/>
+  </g>
+</svg>

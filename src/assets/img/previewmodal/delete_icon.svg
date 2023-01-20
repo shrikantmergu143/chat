@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="delete_icon" transform="translate(-1532 -136)">
+    <g id="download_icon" transform="translate(-68)" opacity="0">
+      <rect id="Rectangle_2976" data-name="Rectangle 2976" width="33" height="33" transform="translate(1600 136)" fill="#fff"/>
+    </g>
+    <path id="delete-svgrepo-com" d="M134,113.861h-.207a.207.207,0,0,0,.207-.207v.207h7.857v-.207a.207.207,0,0,0,.207.207h-.207v1.861h1.861v-2.067A1.656,1.656,0,0,0,142.059,112h-8.27a1.656,1.656,0,0,0-1.654,1.654v2.067H134Zm13.025,1.861H128.827a.826.826,0,0,0-.827.827v.827a.207.207,0,0,0,.207.207h1.561l.638,13.516a1.655,1.655,0,0,0,1.651,1.576h11.733a1.652,1.652,0,0,0,1.651-1.576l.638-13.516h1.561a.207.207,0,0,0,.207-.207v-.827A.826.826,0,0,0,147.021,115.722Zm-3.429,15.093H132.256l-.625-13.232h12.586Z" transform="translate(1410.576 30.163)" fill="#fff"/>
+  </g>
+</svg>

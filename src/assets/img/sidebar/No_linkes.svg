@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="134" viewBox="0 0 134 134">
+  <g id="Group_2533" data-name="Group 2533" transform="translate(-147 -391)">
+    <circle id="Ellipse_445" data-name="Ellipse 445" cx="67" cy="67" r="67" transform="translate(147 391)" fill="#e6f2ff"/>
+    <rect id="Rectangle_2979" data-name="Rectangle 2979" width="36.175" height="79.546" rx="18.087" transform="translate(232.891 418.571) rotate(50)" fill="#fff"/>
+    <g id="Icon_feather-link-2" data-name="Icon feather-link-2" transform="translate(171.588 469.103) rotate(-39)">
+      <path id="Path_3586" data-name="Path 3586" d="M50.683,0H61.543a18.1,18.1,0,1,1,0,36.2H50.683m-21.721,0H18.1A18.1,18.1,0,1,1,18.1,0H28.962" transform="translate(0 0)" fill="none" stroke="#599fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_3587" data-name="Path 3587" d="M0,0H28.962" transform="translate(25.341 18.101)" fill="none" stroke="#599fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Group_2522" data-name="Group 2522" transform="translate(244.045 411.156)">
+      <path id="Path_3558" data-name="Path 3558" d="M-7493.017-5847h11.13a1.584,1.584,0,0,0,1.583-1.584,1.583,1.583,0,0,0-1.583-1.583h-11.13a1.583,1.583,0,0,0-1.583,1.583A1.584,1.584,0,0,0-7493.017-5847Z" transform="translate(7502.166 5869.678)" fill="#b1cbe8" stroke="#599fef" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_3559" data-name="Path 3559" d="M-7469.4-5860.512a1.583,1.583,0,0,0,1.583-1.583v-11.133a1.584,1.584,0,0,0-1.583-1.583,1.584,1.584,0,0,0-1.583,1.583v11.133A1.583,1.583,0,0,0-7469.4-5860.512Z" transform="translate(7470.985 5874.812)" fill="#b1cbe8" stroke="#599fef" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_3560" data-name="Path 3560" d="M-7487.179-5856.2a1.579,1.579,0,0,0,1.14-.485l9.714-10.08a1.582,1.582,0,0,0-.042-2.238,1.582,1.582,0,0,0-2.238.041l-9.715,10.08a1.583,1.583,0,0,0,.042,2.239A1.579,1.579,0,0,0-7487.179-5856.2Z" transform="translate(7493.913 5873.694)" fill="#b1cbe8" stroke="#599fef" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

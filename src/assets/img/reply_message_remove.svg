@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="cancel_icon" transform="translate(-988 -1010)">
+    <circle id="Ellipse_474" data-name="Ellipse 474" cx="9" cy="9" r="9" transform="translate(988 1010)" fill="#fff"/>
+    <g id="Icon_feather-delete" data-name="Icon feather-delete" transform="translate(976.483 1002.983)">
+      <path id="Path_3598" data-name="Path 3598" d="M23.033,13.5,18,18.533" fill="none" stroke="#ff2424" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_3599" data-name="Path 3599" d="M18,13.5l5.033,5.033" fill="none" stroke="#ff2424" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

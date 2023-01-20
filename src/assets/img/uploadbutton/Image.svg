@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0a0a0"/>
+      <stop offset="1" stop-color="#ffdede"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e64141"/>
+      <stop offset="1" stop-color="#cb2727"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.616"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.941"/>
+    </radialGradient>
+  </defs>
+  <g id="Image" transform="translate(-70 -741)">
+    <rect id="Rectangle_2816" data-name="Rectangle 2816" width="70" height="70" rx="26" transform="translate(70 741)" fill="url(#radial-gradient)"/>
+    <path id="Rectangle_2817" data-name="Rectangle 2817" d="M4,0H38a4,4,0,0,1,4,4v6a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V4A4,4,0,0,1,4,0Z" transform="translate(84 776)" fill="url(#radial-gradient-2)"/>
+    <path id="Rectangle_2818" data-name="Rectangle 2818" d="M5,0H18A10,10,0,0,1,28,10v9a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(91 757)" fill="url(#radial-gradient-3)"/>
+    <path id="Path_394" data-name="Path 394" d="M-6502.811,3879.264h6.207" transform="translate(6604.749 -3089.033)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2" opacity="0.516"/>
+    <path id="Icon_material-image" data-name="Icon material-image" d="M11.727,19.812l3.019,3.635L18.974,18l5.435,7.247H7.5Z" transform="translate(89.086 746.877)" fill="#c47b7b"/>
+    <circle id="Ellipse_107" data-name="Ellipse 107" cx="1.75" cy="1.75" r="1.75" transform="translate(102 763)" fill="#c47b7b"/>
+  </g>
+</svg>

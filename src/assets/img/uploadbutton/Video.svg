@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5cb8e8"/>
+      <stop offset="1" stop-color="#b4e5ff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4ca4d3"/>
+      <stop offset="1" stop-color="#4099c7"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.616"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.941"/>
+    </radialGradient>
+  </defs>
+  <g id="Video" transform="translate(-179 -741)">
+    <rect id="Rectangle_2819" data-name="Rectangle 2819" width="70" height="70" rx="26" transform="translate(179 741)" fill="url(#radial-gradient)"/>
+    <path id="Rectangle_2825" data-name="Rectangle 2825" d="M4,0H38a4,4,0,0,1,4,4v6a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V4A4,4,0,0,1,4,0Z" transform="translate(194 776)" fill="url(#radial-gradient-2)"/>
+    <path id="Rectangle_2826" data-name="Rectangle 2826" d="M5,0H18A10,10,0,0,1,28,10v9a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(201 757)" fill="url(#radial-gradient-3)"/>
+    <path id="Path_398" data-name="Path 398" d="M-6502.811,3879.264h6.207" transform="translate(6714.749 -3089.033)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2" opacity="0.516"/>
+    <path id="Icon_awesome-play-circle" data-name="Icon awesome-play-circle" d="M6.14.562A5.577,5.577,0,1,0,11.717,6.14,5.576,5.576,0,0,0,6.14.562Zm2.6,6.117L4.784,8.951a.541.541,0,0,1-.8-.472V3.8a.541.541,0,0,1,.8-.472L8.742,5.735A.541.541,0,0,1,8.742,6.679Z" transform="translate(208.901 761.36)" fill="#438bb1"/>
+  </g>
+</svg>

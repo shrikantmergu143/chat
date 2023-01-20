@@ -1,0 +1,136 @@
+/* responsive media css start here */
+@media only screen and (min-width: 1920px) {
+    .customemojipicker ul {height: calc(100vh - 695px);}
+}
+@media only screen and (min-width: 1600px) {
+	.wrapper { height: 100vh; align-items: center; vertical-align: middle; justify-content: center; display: flex; background: #D3D5E2 0% 0% no-repeat padding-box; } 
+	.wrapper_Main { width: 1560px; height: calc(100vh - 40px); margin: 0 auto; float: none; align-items: center; vertical-align: middle; justify-content: center; background-color: #fff; box-shadow: 0px 3px 91px #00000029; } 
+	.homepagecss { height: calc(100vh - 40px); } 
+	#root .uploadfilesboxdrop .dropdown-menu { inset: 0px 0px auto auto !important; transform: translate(19px, -18px) !important; } 
+	.wrapper .chatpannelwrapper { height: calc(100vh - 106px); } 
+	.sidebarMenuSet, .SidebarMenu_wrap, .mainoptionsidebar { height: calc(100vh - 40px); } 
+	.sidebarMenuSet .chatMemberTabsWraps .scrollararea { height: calc(100vh - 191px) !important; } 
+	.chatsidebarwrapps.createhroupWrapper .ChatMemberList .list-group .scrollararea { height: calc(100vh - 151px) !important; } 
+	.sidebarMenuSet .blockedUserswrapper.savedMessageWrapper .savedMessageList .scrollararea { height: calc(100vh - 111px) !important; } 
+	.groupInfoWrapper  { height: calc(100vh - 40px) !important; } 
+	img.No_datafound { height: 80px !important; } 
+	.OpenSidebarInfo .ChatPannelsWrapper { height: calc(100vh - 40px) !important; } 
+	.groupInfoWrapper .ProfileDetailsrmation .scrollararea { min-height: calc(100vh - 347px) !important; } 
+	.createbuttonsbtm { bottom: 2px !important; } 
+	.groupInfoWrapper .mainMediaSidebar { height: calc(100vh - 104px) !important; } 
+	.allMediawrapper .allMediawrapperContent .scrollararea { min-height: calc(100vh - 155px) !important; } 
+	.ChatPannelsWrapper { height: calc(100vh - 40px); } 
+	.blockedUserswrapper .ChatMemberList .scrollararea { height: calc(100vh - 152px) !important; } 
+	.scrollbottom { bottom: 90px; } 
+	#root .chatsidebarwrapps.createhroupWrapper.groupCreateListManage .ChatMemberList .list-group .scrollararea { height: calc(100vh - 242px) !important; }
+    #root .chatsidebarwrapps.createhroupWrapper.groupCreateListManage .ChatMemberList.ParticipantsList .list-group .scrollararea {height: calc(100vh - 411px) !important;}
+}
+@media screen and (max-width:1598px){
+    .ChatMemberList.ParticipantsList .createbuttonsbtm {bottom: 0px;}
+    .chatsidebarwrapps .createbuttonsbtm {bottom: 0px;}
+}
+@media screen and (max-width:1399px){
+    /* .savedMessageList .list-group .list-group-item .MessagaSavedherWraps .Messagewrapsset{
+        width: 80%;
+    } */
+    .login_qr .main-container{ padding: 2rem 1rem 2rem 1rem; height: 100%;}
+    .login_qr .login_card{ height: 100%;}
+    .login_qr .app_div .black_btn h5{ font-size: 13px;}
+    .login_qr .app_div .black_btn p{font-size: 10px;}
+    .login_qr .title_card{line-height: 30px;}
+    .login_qr .second-text{ margin-bottom: 1rem!important;}
+}
+@media screen and (max-width:1350px){
+    .messageComposeWrapper .sendMessagIconwraps {right: 25px;}
+}
+@media screen and (max-width:1300px){ 
+    .OpenSidebarInfo .ChatPannelsWrapper { width: 65%;}
+    .groupInfoWrapper { width: 35%;}
+    .sidebarGridCol { width: 31% !important;}
+    .SidebarMenu_wrap { width: 65px !important;}
+    .mainoptionsidebar { width: calc(100% - 65px);}
+    .ChatPannelBoxGridCol { width: 69% !important;}
+}
+@media screen and (max-width:1200px){ 
+    .messageComposeWrapper .sendMessagIconwraps {right: 18px;}
+    .groupInfoWrapper { position: absolute;width: 100%;left: 0;top: 0;z-index: 9;background-color: #fff;}
+    .ChatPannelBoxGridCol { position: relative; }
+    .sidebarGridCol {width: 37% !important;}
+    .ChatPannelBoxGridCol {width: 63% !important;}
+    .medialinksfilesDetails .mediaList {width: 80px !important;}
+    .allMediawrappeSet{grid-template-columns: repeat(4,1fr);}
+}
+@media screen and (max-width:1100px) {
+    .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg .imageUplodedGroupsWrap .audioUploadGroups {width: 220px;}
+    .contactSharedDemo img {width: 45px;height: 45px;}
+    .contactSharedDemo .contactNameDeta h4{font-size: 13px;}
+    .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg.files .imageUplodedGroupsWrap .audioUploadGroups .audioUpload .bff2b5 {width: 40px;height: 40px;}
+	.login_qr .qr_image{ height: 350px; width: 350px; }
+    .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg.files .imageUplodedGroupsWrap .audioUploadGroups .audioUpload .bff2b5 .ac7b4a {top: 4px;}
+    .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg.files .c7b08a{left: 60px;}
+    .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg .imageUplodedGroupsWrap .imageUplodedGroups, .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg.files .imageUplodedGroupsWrap .VideoUploadGroups, .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg.files .imageUplodedGroupsWrap .VideoUploadGroups .videoposterimage{width: 90px;height: 90px;}
+    .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg .imageUplodedGroupsWrap .VideoUploadGroups{width: 90px;}
+    .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg .imageUplodedGroupsWrap .VideoUploadGroups .videoPLybtn {top: 24%;width: 50px;height: 50px;}
+    .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg .imageUplodedGroupsWrap .VideoUploadGroups .videoposterimage {height: 90px;}
+    .chatMessageList .file_preview_loader.Video, .chatMessageList .file_preview_loader.Images, .savedMessageList .file_preview_loader.Video, .savedMessageList .file_preview_loader.Images {width: 90px;height: 90px;}
+    .messagtitle {font-size: 13px;}
+}
+@media screen and (max-width:1060px) {
+    .channelHeader .profileinfoImage{width: 40px;height: 40px;}
+    .channelHeader .channelCurentDta_ .broacast {font-size: 11px;}
+    .channelHeader .channelCurentDta_ h4{font-size: 13px;}
+    .homepagecss p{font-size: 14px !important;}
+    .homepagecss h4 {font-size: 22px;}
+    .homepagecss img {width: 110px;}
+    .sidebarGridCol {width: 384px !important;}
+    .ChatPannelBoxGridCol{width: calc(100% - 384px) !important;}
+    .ChatMemberList .list-group .list-group-item img {width: 40px;height: 40px;margin: 0px 10px 0px 0px;}
+    .ChatMemberList .list-group .ChatMemberDetails h4{font-size: 13px;}
+    img.No_datafound {height: 85px;}
+    .messagenoteWraps .messageNotes {padding: 8px 10px;}
+}
+@media screen and (max-width:1036px) {
+	.login_qr .qr_image{ height: 330px; width: 330px; }
+}
+@media screen and (max-width:991px) {
+    .uploadfilesBoxset .uploadfilesbox {width: 50px;height: 50px;margin: 0px 7px;}
+    .messageFieldWraps {width: 95%;}
+    .messageComposeWrapper .sendMessagIconwraps {left: auto;right: 13px;}
+    .imageViewsTabs .imagevideoTabs, .imageViewsTabs .AudioTabs {width: 70px !important;height: 70px;}
+    .imageViewsTabs .imagevideoTabs .videoPLybtn {top: 17px;}
+    .imageViewsTabs .AudioTabs img {width: 29px;height: 29px;margin: 21px auto 0;}
+}
+@media screen and (max-width:940px) {
+    .allMediawrappeSet{grid-template-columns: repeat(3,1fr);}
+}
+@media screen and (max-width:900px) {
+	.login_qr .qr_image{ height: 300px; width: 300px; }
+    .homepagecss {padding: 0px 15px;}
+    .homepagecss img {width: 85px;}
+    .homepagecss h4 {font-size: 21px;margin-bottom: 6px;}
+}
+@media screen and (max-width:800px) {
+    .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg {max-width: fit-content;}
+    .ChatPannelBoxGridCol {width: calc(100% - 350px) !important;}
+    .projectchatlogo {padding: 14px 10px 5px;}
+    .notifactionwarpps .notiftime {font-size: 9px;}
+    .mainoptionsidebar {width: calc(100% - 55px);}
+    .ChatMemberList .list-group .ChatMemberDetails p {font-size: 11px;}
+    .ChatMemberList .list-group .ChatMemberDetails h4 {margin: 2px 0px 2px 0px;font-size: 12px;width: 75% !important;}
+    .ChatMemberList .list-group .list-group-item {padding: 10px 10px;}
+    .SidebarMenu_wrap .SidebarMenu_icon {width: 18px;height: 18px;}
+    .profileUser_wrap {padding: 14px 6px 10px 6px;margin-bottom: 20px;}
+    .SidebarMenu_wrap {width: 55px !important;}
+    #profileUser_Id .profileUser_Set .AvatarCustomSet .avatarImage {width: 37px !important;height: 37px !important;}
+    .sidebarGridCol {width: 350px !important;}
+	.login_qr .qr_image{ height: 240px; width: 240px; } 
+	.login_qr .main-container{ padding-top: 2rem; padding-bottom: 2rem; height: 100%; } 
+	.login_qr .login_card{ height: 100%; } 
+	.login_qr .app_div .black_btn p{ font-size: 10px; font-family: 'Inter Regular'; letter-spacing: 0.6px; font-weight: 100; } 
+	.login_qr .app_div .black_btn h5{ font-size: 14px; font-family: 'Inter Regular'; letter-spacing: 0.6px; font-weight: 100; } 
+	.login_qr .logo_card{ margin-bottom: 0px!important; } 
+	.login_qr p.second-text{ margin-bottom: 15px!important; }
+}
+@media screen and (max-width:480px){ 
+	.chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg.files .e13c85{display:none} 
+} 

@@ -1,0 +1,157 @@
+body.dark .SidebarMenu_wrap { background: #31383E 0% 0% no-repeat padding-box; } 
+body.dark .wrapper { background: #717D8B 0% 0% no-repeat padding-box; box-shadow: 0px 3px 91px #00000029 !important; } 
+body.dark .profileUser_wrap .profileUser_Set { border-color: #42484E; } 
+body.dark .SidebarMenu_wrap .flex-column.nav .nav-link:hover .SidebarMenu_icon, 
+body.dark .editprofileWrapper .CommonAvatarUploadandText .customTextField h4, body.dark .groupavatarwRPS .grpavatarnams { color: #fff !important; } 
+body.dark .SidebarMenu_wrap .flex-column.nav .nav-link.active .SidebarMenu_icon { background-color: #fff !important; } 
+body.dark .SidebarMenu_wrap .flex-column.nav .nav-link:hover .SidebarMenu_icon, 
+body.dark .editprofileWrapper .CommonAvatarUploadandText .customTextField .TextFieldEditIcon { background-color: #fff !important; } 
+body.dark .medialinksfilesDetails .mediaList , body.dark .allMediawrappeSet .fileshowBlog { border: 1px solid #373737 !important; } 
+body.dark .contactSharedDemo .contactNameDeta p {color: #989BBA;}
+body.dark .editprofileWrapper .CommonAvatarUploadandText .customTextField h4 { border-color: #535353; } 
+body.dark .SidebarMenu_wrap .flex-column.nav .nav-link.disabled { border-color: #42484E; } 
+body.dark .messageComposeWrapper .sendRecordingMessagIcon { filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(79deg) brightness(102%) contrast(102%); } 
+body.dark .messageComposeWrapper .sendMessagIconwraps .recordingCallAudo img { filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(79deg) brightness(102%) contrast(102%); } 
+body.dark .messageComposeWrapper .sendMessagIconwraps .recordingCallAudo.Recordactivated { background: #31383E 0% 0% no-repeat padding-box; color: #fff; } 
+body.dark .messageComposeWrapper .sendMessagIconwraps .audio-recorder .audio-recorder-mic:first-child, 
+body.dark .audio-recorder-options { filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(79deg) brightness(102%) contrast(102%); } 
+body.dark .messageComposeWrapper .sendMessagIconwraps .audio-recorder.recording { background: #31383E 0% 0% no-repeat padding-box; color: #fff; } 
+body.dark .fileDonwload { box-shadow: -2px 3px 12px -1px #1f1e1e; background-color: #191d21; } 
+body.dark #CHatcustomscrollid .groupusername_display { color: #84B4FF !important; } 
+body.dark .commonCustomTextfield {color: #fff;border-color: #42484E;}
+body.dark .customemojipicker {background: #333 0% 0% no-repeat padding-box;}
+body.dark .Rside_loader_new {background: rgb(0 0 0 / 50%);}
+body.dark .btngrouptbsemoji .btn{filter: invert(78%) sepia(2%) saturate(6275%) hue-rotate(197deg) brightness(110%) contrast(52%);}
+body.dark .btngrouptbsemoji .btn.btn-primary {filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(89deg) brightness(103%) contrast(103%) !important;}
+body.dark .btngrouptbsemoji {background: #292a2b;}
+body.dark .searchBoxEmoji input{background: #31383E 0% 0% no-repeat padding-box !important;color: #fff !important;font-family: 'Inter Light BETA';background-image: url("../img/sidebar/search_dark.png") !important;background-position: 12px center !important;}
+body.dark .filesUplodedUIwrappser button { color: #fff !important; border-color: #4d4d4d !important; } 
+body.dark .channelHeader .profileinfoImage, 
+body.dark .ProfileDetailsrmation .profileinfoImage { border: 1px solid #414040; } 
+body.dark .messageFieldWraps .messagField p, 
+body.dark .ChatMemberList .list-group .ChatMemberDetails, body.dark .SearchModal .list-group .list-group-item { color: #fff !important; } 
+body.dark .SearchModal .list-group .list-group-item{border-color: rgb(255 255 255 / 13%);}
+body.dark .messageFieldWraps .messagField div { color: #fff !important; } 
+body.dark .chatpannelwrapper .CHatcustomscroll ul .chatMessageList.Me .contactSharedDemo .contactNameDeta p { color: #9AB8DB !important; } 
+body.dark .messageFieldWraps .messagField td { color: #fff !important; } 
+body.dark a.messageUrllink { color: #fff !important; } 
+body.dark .fileDonwload span { background-color: #ffffff; } 
+body.dark .theme-switch { background-color: #191D21; } 
+body.dark .theme-switch .theme-switch-image.active img { filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(169deg) brightness(1%) contrast(91%); } 
+body.dark .theme-switch::before { background: #FFFFFF 0% 0% no-repeat padding-box; box-shadow: 0px 3px 6px #00000029; } 
+body.dark .mainoptionsidebar { background-color: #191d21; } 
+body.dark .projectlogo h4 { color: #fff; } 
+body.dark .chatSearchBox input { background: #31383E 0% 0% no-repeat padding-box; border-color: #31383E; color: #fff; } 
+body.dark .chatSearchBox input::placeholder { color: #fff; } 
+body.dark .chatSearchBox img { filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(132deg) brightness(103%) contrast(103%); } 
+body.dark .chatMemberTabs ul li.active { color: #fff !important; } 
+body.dark .ChatMemberList .list-group .list-group-item, body.dark .SearchModal .list-group .list-group-item { background-color: #191d21; } 
+body.dark .chatMemberTabs { border-color: #42484E; } 
+body.dark .chatMemberTabs ul li.active::after { background-color: #64A0E5; } 
+body.dark .ChatMemberList .list-group .ChatMemberDetails h4 { color: #fff !important; } 
+body.dark .ChatMemberList .list-group .list-group-item::after { background-color: #42484E; } 
+body.dark .ChatMemberList .list-group .list-group-item:hover { background: #2C3239 0% 0% no-repeat padding-box; } 
+body.dark .notifactionwarpps .notiftime { color: #989BBA; } 
+body.dark .ChatMemberList .list-group .ChatMemberDetails p.userTyping { color: #64A0E5 !important; } 
+body.dark .notifactionwarpps .badge { background-color: #64A0E5 !important; } 
+body.dark .homepagecss { background: #1E2227 0% 0% no-repeat padding-box; } 
+body.dark .homepagecss h4 { color: #fff; } 
+body.dark .sidebarMenuSet { border-color: #42484E; } 
+body.dark .ChatMemberList .list-group .list-group-item.active { background: #2C3239 0% 0% no-repeat padding-box !important; } 
+body.dark .SidebarMenu_wrap .flex-column.nav .nav-link::after { background-color: #FFFFFF !important; } 
+body.dark .createbuttonsbtm { background: linear-gradient(0deg, #121212 6px, transparent); } 
+body.dark .customCheckBoxNew .checkmark { border-color: #A5ACC6; } 
+body.dark .sidebarWrapper { background-color: #191d21; } 
+body.dark .commonHeader h4 { color: #fff; } 
+body.dark .commonHeader .closesidebar { filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(132deg) brightness(103%) contrast(103%); } 
+body.dark .customTextField input { background: transparent; border-color: #42484E; color: #fff; } 
+body.dark .customTextField input::placeholder { color: #fff; } 
+body.dark .ParticipantsCount { background: #2C3239 0% 0% no-repeat padding-box; } 
+body.dark .ParticipantsCount h4 { color: #fff; } 
+body.dark .blockedUserswrapper { background-color: #191d21; } 
+body.dark .savedMessageList .list-group .list-group-item { background-color: #191d21; border-color: #42484E !important; } 
+body.dark .savedMessageList .and_text{ color: #fff !important; } 
+body.dark .blockedUserswrapper.savedMessageWrapper .projectchatlogo { border-color: #42484E !important; } 
+body.dark .savedMessageList .list-group .list-group-item .savedMessageUserName .ChatMemberDetails h4 { color: #fff; } 
+body.dark .savedMessageList .list-group .list-group-item .MessagaSavedher { background: #31383E 0% 0% no-repeat padding-box; color: #fff !important; } 
+body.dark .savedMessageList .list-group .list-group-item .savechat-toggle .dropdown-toggle::after{ background-color: white; } 
+body.dark .ProfileHeader .backbtntitle h4 { color: #fff !important; } 
+body.dark .AvatarUploadImageWrps .uploadbtn { background-image: url("../img/profile/dark_camera_icon.png"); } 
+body.dark .ChatPannelsWrapper { background: #1E2227 0% 0% no-repeat padding-box; border-color: #42484E; } 
+body.dark .channelHeader { background-color: #191d21; border-color: #42484E; } 
+body.dark .messageFieldWraps .messagField {caret-color: #fff;background: #31383E 0% 0% no-repeat padding-box; color: #fff; } 
+body.dark .messageComposeWrapper .sendMessagIcon { filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(132deg) brightness(103%) contrast(103%); } 
+body.dark .messageFieldWraps .messagSetemojifiles .uploadfilebtn { filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(132deg) brightness(103%) contrast(103%); } 
+body.dark .ChatHeaderMenu .dropdown-toggle img { filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(132deg) brightness(103%) contrast(103%); } 
+body.dark .ChatHeaderMenu .dropdown-toggle .Icon_menu{ background-color: white; } 
+body.dark .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg { background: #31383E; color: #fff !important; } 
+body.dark .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg.replyMessage_set .replymessgaBox .replywithmemberMessgae{ background-color: #515b66; color: #fff; } 
+body.dark .customeDropdownHere { background-color: #48545D; } 
+body.dark .customeDropdownHere .dropdown-item { color: #fff !important; } 
+body.dark .customeDropdownHere .dropdown-item:focus,
+body.dark .customeDropdownHere .dropdown-item:hover { background-color: #333 !important; } 
+body.dark .channelHeader .channelCurentDta_ h4 { color: #fff !important; } 
+body.dark .emojiWrapper .emoji-picker-react { background-color: #333; border-color: #333; color: #fff; box-shadow: 0 5px 10px #000000 !important; } 
+body.dark .emojiWrapper .emoji-picker-react .emoji-search { background-color: transparent; border-color: #595757; color: #fff; } 
+body.dark .emoji-picker-react .emoji-group:before { background: #333 !important; } 
+body.dark .chatpannelwrapper .CHatcustomscroll ul .chatMessageList.activereplymessage {background: #31383E 0% 0% no-repeat padding-box;}
+body.dark .groupInfoWrapper, 
+body.dark .groupInfoSidebarHeader { background-color: #191d21; border-color: #42484E; } 
+body.dark .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .dropdown-toggle::after {background-color: #fff;}
+body.dark .ChatMemberList .list-group .list-group-item img.avatarImage.system_logo_groups {background: transparent !important;}
+body.dark .ChatMemberList .list-group .list-group-item img.avatarImage.system_logo_users {background: transparent !important;}
+body.dark .AvatarCustomSet .profileinfoImage {background: transparent;}
+body.dark .ProfileDetailsrmation .profileinfoImage{background: transparent;}
+body.dark .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .dropdown-toggle::before {background: linear-gradient(219deg,#252424,transparent 88%);}
+body.dark .groupInfoSidebarHeader h4, 
+body.dark .medialinksfilesHeader h4, 
+body.dark .addpartMembersInfo .Participant_counts, 
+body.dark .addpartMembersInfo .addPatyicipntWrapper .addParticipant, 
+body.dark .ParticipantList .list-group-item .ChatMemberDetails h4, 
+body.dark .ProfileDetailsInfo h4, 
+body.dark .filesDateMonthLabel, 
+body.dark .allMediawrappeSet .fileUplodeSHOW .filesDetails h4, 
+body.dark .mainMdiaTabs h4.active { color: #fff; } 
+body.dark .groupInfoSidebarHeader .sidebarclosebtn { filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(132deg) brightness(103%) contrast(103%); } 
+body.dark .ParticipantList .list-group-item .groupinfomemberMenu .dropdown-toggle img { filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(132deg) brightness(103%) contrast(103%); } 
+body.dark .ProfileDetailsInfo::after { background-color: #42484E; } 
+body.dark .ParticipantList .list-group-item:hover { background: #2C3239 0% 0% no-repeat padding-box; } 
+body.dark .ParticipantList .list-group-item::after { background-color: #42484E; } 
+body.dark .mainMediaSidebar { background: #1E2227 0% 0% no-repeat padding-box; } 
+body.dark .mainMdiaTabs,
+body.dark .allMediawrapperContent .customUrl { border-color: #42484E; } 
+body.dark .customModalDesign .modal-dialog .modal-content,body.dark .SearchModal .modal-dialog .modal-content { background: #31383E 0% 0% no-repeat padding-box; color: #fff; } 
+body.dark .customModalDesign .modal-dialog .modal-content .chatSearchBox input, body.dark .SearchModal .modal-dialog .modal-content .chatSearchBox input { background-color: #454D53 !important; } 
+body.dark .allMediawrappeSet .fileUplodeSHOW { border-color: #42484E; } 
+body.dark .fileuplodeView { background-color: #1E2227; } 
+body.dark .typeing_main_div.small .typing span{ color: white; } 
+body.dark .chat-bubble { background: #31383E; } 
+body.dark .editprofileWrapper .CommonAvatarUploadandText .customTextField  h4 { color: #fff; } 
+body.dark .editprofileWrapper .CommonAvatarUploadandText .customTextField .TextFieldEditIcon{ background-color: #0d61c0; } 
+body.dark .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg .forwards_div::after{ background-color: white; } 
+body.dark .groupInfoWrapper.MessageInfo #CHatcustomscrollid{ background-color: #31383e; } 
+body.dark .groupInfoWrapper.MessageInfo .ChatMemberList .list-group .list-group-item::after{ background-color: #42484E; }
+body.dark .SearchModal .search_tags button{background-color: #454d53; border-color: transparent; color: white;}
+body.dark .SearchModal .grid_images .images_preview{background-color: #31383e;}
+body.dark .SearchModal .modal-dialog .modal-content .modal-body{background-color: #31383e;}
+body.dark .SearchModal .chatpannelwrapper .CHatcustomscroll ul .chatMessageList .chatMsg.files{border-color: #373a3e;}
+body.dark .projectlogo.header_logo_project .search_logos{background-color: white;}
+body.dark .savedMessageList .chatMsg.replyMessage_set .MessagaSavedher .replymessgaBox{color: #fff!important;}
+body.dark .savedMessageList .chatMsg.replyMessage_set .MessagaSavedher .replymessgaBox .replywithmemberMessgae{background-color: #515b66;}
+body.dark .savedMessageList .chatMsg.replyMessage_set .MessagaSavedher.Me .replymessgaBox .replywithmemberMessgae,
+body.dark .chatpannelwrapper .CHatcustomscroll ul .chatMessageList.Me .chatMsg.replyMessage_set .replymessgaBox .replywithmemberMessgae{background-color: #215795;}
+body.dark .savedMessageList .chatMsg.replyMessage_set .MessagaSavedher .replymessgaBox{color: #fff!important;}
+body.dark .chatpannelwrapper .CHatcustomscroll ul .chatMessageList.Me .chatMsg.files .imageUplodedGroupsWrap .filesUplodedUIwrappser button{border-top: 1px solid #578ECE!important;}
+body.dark .ImageViewPreviewModal.Files_preview{background-color: #31383e82;}
+body.dark .ChatMemberList.Buttons .view_button button{color: #fff; border-color: #fff;}
+/* Chat info border */
+body.dark .MessageInfo .border-bottom-1{ border-bottom: 1px solid #2b2d2e;}
+body.dark .ImageViewPreviewModal.Files_preview .modal_body{ background: hsl(210deg 14% 11% / 88%)!important;box-shadow: 0 4px 6px -1px rgba(0,0,0,.1),0 2px 4px -1px rgba(0,0,0,.06)!important;}
+body.dark .SearchModal .list-group .list-group-item:hover{background-color: #191d219c;}
+body.dark .chat_messages_loader::after{box-shadow: 0 0px 87px 32px rgb(0 0 0 / 85%);}
+body.dark .MessaegsList_loader{background-color: white!important;}
+/* firefox chat textbox css start here */
+@-moz-document url-prefix() {
+	body.dark .messageFieldWraps .messagField div:last-child::after {background: #fff;}
+    body.dark .messageFieldWraps .messagField {caret-color: #fff}
+}
