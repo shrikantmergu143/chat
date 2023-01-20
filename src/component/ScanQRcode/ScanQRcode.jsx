@@ -30,13 +30,13 @@ export default function ScanQRcode() {
             console.log("login user", responce);
             if(responce?.status === 200){
                 SetIsShow(true);
-                const payloadMagic = {
-                    device_id:device_id,
-                    device_type:"web"
-                }
-                const responce2 =await getMagiccodeAPI(responce?.data?.data?.users_detail?.access_token, payloadMagic);
-                console.log("data", responce2);
-                if(responce2?.status === 200){
+                // const payloadMagic = {
+                //     device_id:device_id,
+                //     device_type:"web"
+                // }
+                // const responce2 =await getMagiccodeAPI(responce?.data?.data?.users_detail?.access_token, payloadMagic);
+                // console.log("data", responce2);
+                // if(responce2?.status === 200){
                     const payload = {
                         ...responce?.data?.data,
                         global_group:responce?.data?.data?.users_detail?.global_group,
@@ -46,10 +46,10 @@ export default function ScanQRcode() {
                             ...responce?.data?.data?.users_detail?.user,
                         }
                     }
-                    dispatch(setGetMagicCode(responce2?.data));
-                    setTimeout(()=>window.location.replace(process.env.REACT_APP_BASE_URL+`/user/set_login/${responce2?.data}/${device_id}/web`),1000);
+                    // dispatch(setGetMagicCode(responce2?.data));
+                    // setTimeout(()=>window.location.replace(process.env.REACT_APP_BASE_URL+`/user/set_login/${responce2?.data}/${device_id}/web`),1000);
                     dispatch(StoreLoginUserQR(payload));
-                }
+                // }
                 
                 setTimeout(()=>SetIsShow(false), 3000);
 

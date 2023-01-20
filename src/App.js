@@ -39,9 +39,9 @@ function App() {
         };
     },[]);
 
-    useEffect(()=>{
-        CheckLoginUser();
-    },[magicCode]);
+    // useEffect(()=>{
+    //     CheckLoginUser();
+    // },[magicCode]);
 
     const CheckLoginUser = async (e) => {
         if(magicCode === ""){

@@ -39,20 +39,20 @@ export default function FileAuthPreview(props) {
                 //         setFileloader(false);
                 //     }
                 // } else {
-                    setPreviewURL(url);
+                    // setPreviewURL(url);
                 // }
 
                 // local file preview code 
-                // if(view_base_url[url]){
-                //     setPreviewURL(view_base_url[url]);
-                //     setFileloader(false);
-                // }else{
-                //     setFileloader(true);
-                //     const responce = await GetViewFilesAPI(url, access_token);
-                //     dispatch(SetStoreViewBaseURL({id:url, url:responce}));
-                //     setPreviewURL(responce);
-                //     setFileloader(false);
-                // }
+                if(view_base_url[url]){
+                    setPreviewURL(view_base_url[url]);
+                    setFileloader(false);
+                }else{
+                    setFileloader(true);
+                    const responce = await GetViewFilesAPI(url, access_token);
+                    dispatch(SetStoreViewBaseURL({id:url, url:responce}));
+                    setPreviewURL(responce);
+                    setFileloader(false);
+                }
             }else{
                 setPreviewURL(props?.src);
             }

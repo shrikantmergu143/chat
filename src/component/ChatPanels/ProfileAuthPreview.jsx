@@ -31,18 +31,18 @@ export default function ProfileAuthPreview(props) {
     const data = async ()=>{
         if(url){
             // // local file preview code 
-            // if( view_base_url[url]!== undefined ){
-            //     setPreviewURL(view_base_url[url]);
-            // }else{
-            //     setFileloader(true)
-            //     const responce = await GetViewFilesAPI(url, access_token);
-            //     dispatch(SetStoreViewBaseURL({id:url, url:responce}));
-            //     setPreviewURL(responce);
-            //     setFileloader(false);
-            // }
+            if( view_base_url[url]!== undefined ){
+                setPreviewURL(view_base_url[url]);
+            }else{
+                setFileloader(true)
+                const responce = await GetViewFilesAPI(url, access_token);
+                dispatch(SetStoreViewBaseURL({id:url, url:responce}));
+                setPreviewURL(responce);
+                setFileloader(false);
+            }
 
             // live file preview code
-            setPreviewURL(url);
+            // setPreviewURL(url);
         }else{
             setPreviewURL(props?.defultIcon);
         }
